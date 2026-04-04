@@ -1,0 +1,34 @@
+Film turleri ve content rating rehberi
+
+Drama:
+Duygusal, karakter odakli ve ciddi konulari isleyen film turudur.
+
+Crime:
+Suc, mafya, polis, sorusturma veya adli olaylari konu alan film turudur.
+
+Action:
+Hareketli sahneler, kovalamaca, catismalar ve fiziksel aksiyon iceren filmlerdir.
+
+Comedy:
+Izleyiciyi guldurmeyi amaclayan film turudur.
+
+Adventure:
+Kesif, yolculuk, macera ve tehlike unsurlari iceren film turudur.
+
+Biography:
+Gercek bir kisinin hayatindan uyarlanan film turudur.
+
+Content rating aciklamalari:
+
+R:
+Genellikle yetiskinlere daha uygun icerik oldugunu gosterir.
+Siddet, sert dil veya yetiskin temalar icerebilir.
+
+PG:
+Ebeveyn rehberligi onerilir.
+Cocuklar icin bazi bolumler uygun olmayabilir.
+
+PG-13:
+13 yas altindaki izleyiciler icin ebeveyn dikkatine ihtiyac olabilir.
+
+Bu aciklamalar genel yorum amaclidir.

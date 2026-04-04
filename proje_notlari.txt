@@ -1,0 +1,19 @@
+Proje notlari
+
+Bu proje n8n kullanilarak hazirlanmistir.
+
+Projenin ilk asamasinda imdb film verisi GitHub uzerindeki bir CSV kaynagindan alinmistir.
+
+CSV verisi n8n uzerinde okunmus, duzenlenmis ve Neon PostgreSQL veritabanina yazilmistir.
+
+Veritabani tablosu imdb_movies adini tasimaktadir.
+
+Projenin ikinci asamasinda kullanici chat uzerinden dogal dilde soru sorabilmektedir.
+
+Bu chat yapisinda Groq modeli kullanilmistir.
+
+Week 4 kapsaminda projeye vector search mantigi eklenmistir.
+
+Bu sayede sistem sadece tablo verisiyle degil, yuklenen dokumanlarla da soru cevap yapabilmektedir.
+
+Boylece sistem hem SQL tabanli hem de RAG tabanli cevap verebilen bir yapiya donusmustur.

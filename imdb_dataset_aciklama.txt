@@ -1,0 +1,31 @@
+IMDB veri seti aciklamasi
+
+Bu veri seti IMDB uzerinden secilmis filmlerle ilgili temel bilgiler icerir.
+
+Kolonlar:
+
+title:
+Filmin adini gosterir.
+
+star_rating:
+Filmin puanini gosterir.
+Bu alan sayisaldir.
+Ornek: 9.3, 8.9, 7.5
+
+content_rating:
+Filmin yas veya icerik derecesini gosterir.
+Ornek: R, PG, PG-13
+
+genre:
+Filmin turunu gosterir.
+Ornek: Drama, Crime, Action, Comedy
+
+duration:
+Filmin suresini dakika cinsinden gosterir.
+Bu alan sayisaldir.
+Ornek: 142, 175, 120
+
+actors_list:
+Filmde oynayan bazi oyuncularin listesini gosterir.
+
+Bu veri seti film puanlama, tur bazli analiz, sure analizi ve temel film sorgulari icin kullanilabilir.
